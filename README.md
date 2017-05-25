@@ -9,3 +9,4 @@ Here is what it does:
 5. serves the codon distribution of a single selected data point in form of a bar diagram
 
 
+![alt text](https://github.com/tobsecret/Bokeh_genome_explorer/blob/master/screenshot1.png "Browser Screenshot")
