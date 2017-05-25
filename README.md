@@ -8,4 +8,4 @@ Here is what it does:
 4. plots a scatter plot of the PCA data
 5. serves the codon distribution of a single selected data point in form of a bar diagram
 
-My implementation is for sure not optimal at the moment, next in line is updating the update mechanism that updates the bar chart based on  the selection of points in the PCA scatter plot.
+
