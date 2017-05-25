@@ -1,0 +1,8 @@
+biopython                 1.68                np111py35_0  
+bokeh                     0.12.5                   py35_1  
+dask                      0.14.1                   py35_0    conda-forge
+distributed               1.16.1                   py35_0    conda-forge
+numpy                     1.11.1                   py35_1  
+pandas                    0.19.2              np111py35_1    conda-forge
+python                    3.5.2                         0    conda-forge
+scikit-learn              0.17.1              np111py35_1  
