@@ -12,4 +12,4 @@ If you make a copy of the [environment](https://github.com/tobsecret/Bokeh_genom
 in which I worked on this app, you can run `bokeh serve genome_codon_usage_app.py --show` in the directory to which you cloned the app.
 
 That should give you something like the screenshot below in which I used the zoom tool to zoom in a little bit and marked a single point.
-![alt text](https://github.com/tobsecret/Bokeh_genome_explorer/blob/master/screenshot1.png "Browser Screenshot")
+![alt text](https://github.com/tobsecret/Bokeh_genome_explorer/blob/master/screenshot2.png "Browser Screenshot")
